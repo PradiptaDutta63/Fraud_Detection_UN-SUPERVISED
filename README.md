@@ -39,8 +39,8 @@ pip install -r requirements.txt
 1. Clone the Repository:
 
 ```bash
-git clone https://github.com/your-username/anomaly-detection.git
-cd anomaly-detection
+git clone https://github.com/pradiptadutta63/Fraud_Detection_UN-SUPERVISED.git
+cd Fraud_Detection_UN-SUPERVISED
 ```
 
 2. Install Dependencies:
